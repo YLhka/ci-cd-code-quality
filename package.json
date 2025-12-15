@@ -2,7 +2,7 @@
   "name": "ci-cd-code-quality",
   "version": "1.0.0",
   "scripts": {
-    "lint": "echo \"代码质量检查失败：检测到不符合规范的代码！\" && exit 1", // 新增：模拟检查失败
+    "lint": "echo \"代码质量检查失败：检测到不符合规范的代码！\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {}
